@@ -1,3 +1,8 @@
+package tests;
+
+/**
+ * Created by DWork on 06.06.2017.
+ */
 import org.openqa.selenium.Dimension;
 import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.chrome.ChromeDriver;
@@ -9,7 +14,7 @@ import org.testng.annotations.BeforeClass;
 /**
  * Created by DWork on 06.06.2017.
  */
-public class Base {
+public class Base1 {
 
     WebDriver driver = new ChromeDriver();
     Wait wait;
