@@ -16,6 +16,6 @@ public class TestsNew extends Base1 {
     @Test
     public void isWidgetTitleDisplayed() {
 
-        Assert.assertTrue(driver.getCurrentUrl().equals(("http://www.solomia.andreyb.ixloo.com/dealer-review-form_dealer_6286.html")));
+        Assert.assertTrue(driver.getCurrentUrl().equals(("http://www.solomia.andreyb.ixloo.com/dealer-review-form_dealer_6280.html")));
     }
 }
